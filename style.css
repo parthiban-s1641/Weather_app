@@ -1,0 +1,27 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+#icon{
+    width: 75px;
+    height: 75px;
+}
+.list-group{
+    text-align: center;
+}
+#location,
+#country,
+#description{
+    text-align: center;
+}
+#icon{
+    position: relative;
+    left: 45%;
+    margin-bottom: 10px;
+}
+#change-btn{
+    position: relative;
+    left: 45%;
+    margin-top: 10px;
+}
